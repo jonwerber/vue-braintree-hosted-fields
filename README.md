@@ -1,6 +1,8 @@
+#This is 99.99999%  [ksherman](https://github.com/ksherman)'s work, I just needed selectors instead of a combined expiration date input
 # VueJS Braintree Hosted Fields Component
 
 Welcome!
+
 
 This is a Vue component (.vue single file) for Braintree's Hosted Fields, using v3 of the JS SDK. This component includes the credit card number, CVV, and expiration date. Hosted fields are completely un-styled. I have some suggested styles below, or you can roll your own!
 
