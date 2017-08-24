@@ -1,4 +1,6 @@
-#This is 99.99999%  [ksherman](https://github.com/ksherman)'s work, I just needed selectors instead of a combined expiration date input
+# This is 99.99999%  [ksherman](https://github.com/ksherman)'s work, I just needed selectors instead of a combined expiration date input
+
+
 # VueJS Braintree Hosted Fields Component
 
 Welcome!
